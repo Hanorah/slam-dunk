@@ -1,21 +1,4 @@
-# 🏀 SlamDunk Store: https://slam-dunk-store.vercel.app/
 
-> E-commerce platform for basketball enthusiasts - Shop shoes, apparel, and accessories with a seamless checkout experience.
-
-## 🛍️ Features
-- **Product Catalog** - Browse basketball shoes and apparel
-- **Shopping Cart** - Add/remove items with real-time updates
-- **Secure Checkout** - Safe payment processing
-- **User Accounts** - Track orders and save favorites
-- **Search & Filter** - Find products quickly
-- **Order History** - View past purchases
-
-## 💻 Tech Stack
-- **Frontend:** React.js, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Payment:** Stripe Integration
-- **Hosting:** Vercel
 
 ## 🚀 Setup Instructions
 ```bash
@@ -37,13 +20,6 @@ npm start
   <img src="https://img.shields.io/badge/TailwindCSS-UI-111111?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
 </p>
 
-## Overview
-
-Slam Dunk Store is a premium one-page basketball product experience focused on motion, atmosphere, and customization. The site uses full-screen storytelling sections, a live 3D ball rendered in WebGL, an animated add-to-cart interaction, and a custom editor that lets users create their own ball variant and add it into the main showcase.
-
-This project is built to feel more like a launch campaign than a traditional e-commerce page.
-
-## Demo
 
 - Local development demo: run `npm run dev`
 - Production preview: run `npm run build` and `npm run preview`
